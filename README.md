@@ -1,5 +1,7 @@
 # Springboot-Angular9
 
+Basic settings like ng, npm , node modules,angular latest versions should be installed in the system properly, java version> 8.
+
 It contains 3 folder as follow:
 1. Server side: Springboot
 2:Client side: Angular
