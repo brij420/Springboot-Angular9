@@ -4,7 +4,7 @@ Basic settings like ng, npm , node modules,angular latest versions should be ins
 
 It contains 3 folder as follow:
 1. Server side: Springboot
-2:Client side: Angular
+2:Client side: my-app(Angular)
 3: Database
 
 Local Configuration
